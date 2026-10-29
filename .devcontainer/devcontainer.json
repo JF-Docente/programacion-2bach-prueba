@@ -1,0 +1,14 @@
+{
+  "name": "Programacion 2 Bach",
+
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack",
+        "ms-python.python"
+      ]
+    }
+  }
+}
